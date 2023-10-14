@@ -20,8 +20,3 @@ public class Exc {
 
 }
 
-
-
-//try catch
-//throw
-//throws
