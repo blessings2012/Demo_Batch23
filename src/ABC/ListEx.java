@@ -7,10 +7,7 @@ import java.util.LinkedList;
 public class ListEx {
 	public static void main(String args[]) {
 		
-		/*
-		 * ArrayList ar = new ArrayList(); ar.add("harshita"); ar.add("tiwari");
-		 * ar.add(true); ar.add('c'); ar.add(1); ar.add(1); System.out.println(ar);
-		 */
+		
 		
 		ArrayList ll = new ArrayList();
 		ll.add("harshita");
